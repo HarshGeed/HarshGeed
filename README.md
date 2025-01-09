@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 # 💫 About Me:
-🌐 Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br><br>⚡ Proficient in Next.js for server-side rendering and modern web development.<br><br>🤖 Enthusiast in Machine Learning and Artificial Intelligence, crafting smart and efficient models.<br><br>💻 Skilled in multiple programming languages:<br><br>JavaScript<br><br>C++<br><br>Java<br><br>Python<br><br>R+<br><br>PHP<br><br>🛠️ Experienced with Docker and Kubernetes for containerization and orchestration.<br><br>📊 Proficient in databases:<br><br>MySQL<br><br>PostgreSQL
+🌐 Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br><br>⚡ Proficient in Next.js for server-side rendering and modern web development.<br><br>🤖 Enthusiast in Machine Learning and Artificial Intelligence, crafting smart and efficient models.<br><br>💻 Skilled in multiple programming languages:<br>
 
 
 ## 🌐 Socials:
