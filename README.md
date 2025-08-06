@@ -1,4 +1,4 @@
-![Banner](helloWorld.png)
+<img src="/helloWorld.png" alt="Logo" width="1280" height="640"/>
 ## Hi there 👋 
 
 # 💫 About Me:
